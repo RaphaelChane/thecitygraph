@@ -22,3 +22,8 @@ desktop.ini
 # Divers
 node_modules/
 *.log
+
+# Domaine personnalisé — à décommenter une fois le domaine acheté et le DNS prêt.
+# Tant que thecitygraph.com ne résout pas, un CNAME versionné pousse GitHub à
+# rediriger <user>.github.io/<repo> vers un domaine inexistant (site en 404).
+# CNAME
