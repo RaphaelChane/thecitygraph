@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Pas de crawl des sources non déployées
+Disallow: /assets/video/
+
+Sitemap: https://thecitygraph.com/sitemap.xml

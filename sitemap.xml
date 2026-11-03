@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://thecitygraph.com/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://thecitygraph.com/assets/img/ekiden-poster.jpg</image:loc>
+      <image:title>Ékiden — film de marque, Paris 2025</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thecitygraph.com/assets/img/nomad-street-1200.webp</image:loc>
+      <image:title>Fragments de ville — Hong Kong 2025</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thecitygraph.com/assets/img/camel-dune-1200.webp</image:loc>
+      <image:title>Horizons de sable — AlUla 2025</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thecitygraph.com/assets/img/bamboo-city-1200.webp</image:loc>
+      <image:title>Bambou &amp; béton — Hong Kong 2025</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://thecitygraph.com/assets/img/golden-boat-1200.webp</image:loc>
+      <image:title>Dernière lumière — Golfe Arabique 2025</image:title>
+    </image:image>
+  </url>
+</urlset>

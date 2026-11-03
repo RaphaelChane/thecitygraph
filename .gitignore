@@ -1,0 +1,24 @@
+# Sources lourdes — non déployées (voir BRIEF-MEDIA.md)
+*.mov
+*.MOV
+*.JPG
+/_WGY*.JPG
+/TCG*.JPG
+
+# Exception : les dérivés web servis par le site
+!assets/video/*.mp4
+!assets/img/*.jpg
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Divers
+node_modules/
+*.log
